@@ -1,9 +1,9 @@
-# LEX RECOVER — Comentarios y correcciones
+# Difusión — Comentarios y correcciones
 
 Este repositorio es **solo para reportar correcciones o mejoras** de la app
-**LEX RECOVER**. Aquí no hay código: el código de la aplicación se mantiene en
-un repositorio **privado** aparte, así que desde aquí **no se puede cambiar la
-app**.
+**Difusión**. Aquí no hay código: el código de la aplicación está en
+[`SaveFail/difusion`](https://github.com/SaveFail/difusion), así que desde aquí
+**no se puede cambiar la app**.
 
 ## Cómo reportar una corrección
 
@@ -22,4 +22,4 @@ registro de lo que se pidió y lo que se hizo.
 - `prioridad-alta` — urgente o impide trabajar.
 - `correccion` — corrección solicitada.
 
-> Versión actual de la app: **1.2** (`versionCode 3`).
+> Versión actual de la app: **3.0** (`versionCode 21`).
